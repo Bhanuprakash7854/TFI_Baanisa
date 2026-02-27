@@ -14,7 +14,7 @@ export default function ResultPage() {
         memeImage = "./src/assets/90.jpg"
         titleText = "🔥TFI Kattu Baanisa"
     } else if (finalScore >= 70) {
-        memeImage = "./src/assets/75.jpg"
+        memeImage = "./src/assets/70.jpg"
         titleText = "🎬 TFI Ane Goda lo Ituka Nuvvu"
     } else if (finalScore >= 50) {
         memeImage = "./src/assets/50.jpg"

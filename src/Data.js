@@ -48,7 +48,9 @@ const data = [
         image1: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Naga_Chaitanya_%28cropped%29.jpg/500px-Naga_Chaitanya_%28cropped%29.jpg",
         image2: "https://upload.wikimedia.org/wikipedia/commons/4/4c/Raashi_Khanna_at_the_premiere_of_film_12th_Fail_%28cropped%29.jpg",
         movies: [
-            "Manam"
+            "Manam",
+            "venky mama",
+            "Thank you"
         ]
     },
     {
@@ -113,7 +115,9 @@ const data = [
         image2: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Samantha_at_Kushi_Musical_concert_%282%29_%28cropped%29.jpg/500px-Samantha_at_Kushi_Musical_concert_%282%29_%28cropped%29.jpg",
         movies: [
             "Ramayya Vastavayya",
-            "Brindavanam"
+            "Brindavanam",
+            "janatha garage",
+            "Rabhasa"
         ]
     },
     {
